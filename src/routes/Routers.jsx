@@ -12,7 +12,7 @@ import Register from '../pages/Register';
 
  export const router = createBrowserRouter([
   {
-    path: '/login',
+    path: '/',
     element: <Login/>,
   },
   {
