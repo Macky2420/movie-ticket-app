@@ -102,7 +102,7 @@ const Register = () => {
         });
 
         // Redirect to login page after successful registration
-        navigate('/login');
+        navigate('/');
 
       } catch (error) {
 
